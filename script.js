@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 // script.js
 
 // Function to set a cookie with a given name, value, and expiration time
